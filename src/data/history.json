@@ -1,0 +1,27 @@
+[
+    {
+      "role": "Junior Web Development Internship",
+      "organisation": "Upaya Recruitment",
+      "startDate": "February 2024",
+      "endDate": "June 2024",
+      "experiences": ["Planned and organised the development of a new website for Upaya Recruitment",
+      "Developed the applicant system for the website",
+      "Designed the pages and structure for the applicant sign up portal,hub and other pages",
+      "Implemented an OpenAI API call for the website in order to parse data from a CV",
+      "Learnt the usage of Bubble.io"],
+      "imageSrc": "history/google.png"
+    },
+    {
+      "role": "Junior Web Development Internship",
+      "organisation": "Netribution.org",
+      "startDate": "January 2023",
+      "endDate": "August 2023",
+      "experiences": ["Assisted in the development of the website for The Person Centred Association",
+      "Helped handle the development and migration of the previous websites data to the new website for the organisation WAPCEPC",
+      "Worked on the development of the open-source software CiviCRM",
+      "Handled the migration of data for WAPCEPC",
+      "Also worked on improving the technical efficiency for CiviCRM",
+      "Learnt the usage of two CMS services in Joomla and Drupal"],
+      "imageSrc": "history/microsoft.png"
+    }
+  ]
