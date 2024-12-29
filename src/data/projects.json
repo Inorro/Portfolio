@@ -1,11 +1,11 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "6 Degrees of Marvel",
+      "imageSrc": "projects/6-degrees.png",
+      "description": "This is a project made to find the degrees of seperation between two marvel characters in Marvel Comics",
+      "skills": ["React", "Express", "Node","Cheerio","MySQL"],
+      "demo": "https://six-degrees-of-marvel.onrender.com/",
+      "source": "https://github.com/Inorro/MarvelWebSite"
     },
     {
       "title": "Project B",
