@@ -4,23 +4,22 @@
       "imageSrc": "projects/6-degrees.png",
       "description": "This is a project made to find the degrees of seperation between two marvel characters in Marvel Comics",
       "skills": ["React", "Express", "Node","Cheerio","MySQL"],
-      "demo": "https://six-degrees-of-marvel.onrender.com/",
-      "source": "https://github.com/Inorro/MarvelWebSite"
+      "demo": "https://6-degrees-client.vercel.app/",
+      "source": "https://github.com/Inorro/6-Degrees-Of-Marvel"
     },
     {
-      "title": "Project B",
+      "title": "Personal Portfolio",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "This is a single page react app to show my skills to employers as well as to learn the fundementals of react and responsive design",
+      "skills": ["React","CSS"],
+      "demo": "https://inorro.github.io/Portfolio/",
+      "source": "https://github.com/Inorro/Portfolio"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Riget Zoo Adventures",
+      "imageSrc": "projects/RZA.png",
+      "description": "This is an ecommerce site for a fictional zoo built during my second year of college.",
+      "skills": ["Django","Javascript"],
+      "source": "https://github.com/Inorro/Riget-Zoo-Adventures"
     }
   ]
