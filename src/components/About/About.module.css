@@ -17,16 +17,13 @@
     font-weight: 700;
     letter-spacing: 1.75px;
     text-transform: uppercase;
+    text-align: center;
 }
 
 .content{
     display: flex;
     flex-direction: row;
     align-items: center;
-}
-
-.aboutImage{
-    width: 60%;
 }
 
 .aboutItems{
@@ -74,10 +71,6 @@
 
     .content{
         flex-direction: column;
-    }
-
-    .aboutImage{
-        display: none;
     }
 
     .aboutItems{

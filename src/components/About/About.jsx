@@ -7,11 +7,6 @@ export const About = () => {
     <section className={styles.container} id='about'>
         <h2 className={styles.title}>About</h2>
         <div className={styles.content}>
-            <img 
-            className={styles.aboutImage}
-            src={getImageURL("about/aboutImage.png")}
-            alt='About image'
-            />
             <ul className={styles.aboutItems}>
                 <li className={styles.aboutItem}>
                     <img 
@@ -41,8 +36,7 @@ export const About = () => {
                     />
                     <div className={styles.aboutItemText}>
                         <h3>UI Developer</h3>
-                        <p>I have designed multiple landing pages and
-                        have created design systems as well</p>
+                        <p>I have designed and contributed to the design of multiple web apps in a professional and non-professional capacity</p>
                     </div>
                 </li>
             </ul>
