@@ -9,7 +9,7 @@
     },
     {
       "title": "Personal Portfolio",
-      "imageSrc": "projects/project.png",
+      "imageSrc": "projects/portfolio.png",
       "description": "This is a single page react app to show my skills to employers as well as to learn the fundementals of react and responsive design",
       "skills": ["React","CSS"],
       "demo": "https://inorro.github.io/Portfolio/",
